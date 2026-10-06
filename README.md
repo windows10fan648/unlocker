@@ -45,7 +45,7 @@ or any other features that are not already in the VMware compiled code.
 ### 2.1 Download Release
 The code is written in Go and has no pre-requisites and should run directly from the release zip download.
 
-* Download a binary release from [https://github.com/DrDonk/unlocker/releases](https://github.com/windows10fan648/unlocker/releases/tag/v4.2.9)
+* Download a binary release from [https://github.com/windows10fan648/unlocker/releases/tag/v4.2.9](https://github.com/windows10fan648/unlocker/releases/tag/v4.2.9)
 * Optionally check the sha256 checksum matches that published in the release
 * Unzip (Windows) or untar (Linux) the archive to extract the executables and VMware Tools images
 * Navigate to the folder with the extracted files
